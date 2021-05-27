@@ -1,6 +1,7 @@
 # FirstAndroidApp
-###### This is an app created for learning basics of Android.
-###### The objective of the app was to get familiar with the Android basics.
+
+This is an app created for learning basics of Android.
+The objective of the app was to get familiar with the Android basics.
 
 
 [
